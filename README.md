@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## You can calculate your CGPA by using the below code.
 <!--
 **Taswaruddin007/taswaruddin007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
